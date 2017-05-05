@@ -1,0 +1,33 @@
+#search {
+    position: relative;
+
+}
+
+#search input {
+
+}
+
+#searchbutton1 {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    margin: 143px 0;
+    background-color: #fff;
+    overflow: visible;
+    text-shadow: 0 0px 0 rgba(0, 0 ,0, 0);
+     display:block;
+    border:0 none;
+    cursor:pointer;
+    outline:none;
+    vertical-align:top;
+
+
+}
+.glyphicon.glyphicon-search {
+    font-size: 25px;
+}
+
+.glyphicon {
+   font-family:'Glyphicons Halflings' !important;
+   // more css comes along here
+}
