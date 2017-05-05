@@ -48,7 +48,7 @@ class Weights(object):
             continue
         return self.total
         print(self.total + 'pennies')
-
+    # stephen was here
     # penny weight
     def getPennyWeight(self):
         pennyPerPound = 181.4368
