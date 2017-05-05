@@ -6,6 +6,7 @@ class Weights(object):
 
     # user = client.getUser(id64='76561198014207004')
     # user1 = user.raw_apps
+    #test
 
 
 
